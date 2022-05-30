@@ -24,4 +24,4 @@
  
   </div>
   
-  ![Snake animation](https://github.com/GabrielSampa1o.svg)
+  ![Snake animation](https://github.com/GabrielSampa1o)
