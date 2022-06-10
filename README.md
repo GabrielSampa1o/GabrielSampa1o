@@ -1,4 +1,4 @@
-# Olá, me chamo Gabriel, tenho 19 anos e atualmente estou estudando desenvolvemento web.
+# Olá, me chamo Gabriel, tenho 19 anos! Sou uma pessoa bastante curiosa e amo aprender coisas novas.
 
 <div align="center">
   <a href="[https://github.com/rafaballerini](https://github.com/GabrielSampa1o)">
