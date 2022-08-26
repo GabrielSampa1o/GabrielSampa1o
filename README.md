@@ -1,4 +1,4 @@
-# Olá, me chamo Gabriel, tenho 20 anos! Sou uma pessoa bastante curiosa e amo aprender coisas novas.
+# Olá, me chamo Gabriel, tenho 20 anos! Sou apaixonado por tecnologia, e busco entender como as coisas funcionam, amo aprender coisas novas.
 
 <div align="center">
   <a href="[https://github.com/rafaballerini](https://github.com/GabrielSampa1o)">
